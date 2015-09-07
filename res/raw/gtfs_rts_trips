@@ -1,6 +1,11 @@
-100,0,'Riverdale-Porter Crk',1
-200,0,'Riverdale-CopperRidge-Granger',2
-300,0,'Riverdale-McIntyre-Hillcrest',3
+103,0,'Porter Crk Exp',1
+104,0,'Riverdale N',1
+203,0,'Copper Rdg/Granger',2
+204,0,'Riverdale S',2
+303,0,'RR/McIntyre/Hillcrest',3
+304,0,'Riverdale N',3
 400,0,'Porter Crk-Crestview',4
-500,0,'Takhini-Lobird-Granger',5
-600,0,'Ingram-Granger-Porter Crk-Whistle Bend',6
+504,0,'Lobird/Copper Rdg Exp',5
+503,0,'Takhini/Yukon College',5
+604,0,'AM',6
+603,0,'PM',6
