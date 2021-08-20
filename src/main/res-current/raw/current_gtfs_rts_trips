@@ -1,6 +1,7 @@
-109,0,'Riverdale<>Porter Crk',1
-209,0,'Riverdale<>Copper Rdg-Granger',2
-309,0,'Riverdale<>McIntyre<>Hillcrest',3
-409,0,'Porter Crk<>Crestview',4
-509,0,'Takhini<>Lobird<>Granger',5
-609,0,'Ingram<>Granger<>Porter Crk<>Whistle Bend',6
+109,0,'Riverdale-Porter Crk',1
+209,0,'Riverdale-Copper Rdg-Granger',2
+309,0,'Riverdale-McIntyre-Hillcrest',3
+409,0,'Porter Crk-Crestview',4
+509,0,'Takhini-Lobird-Granger',5
+609,0,'Ingram-Granger-Porter Crk-Whistle Bend',6
+709,0,'Whistle Bend -Riverdale N',7
