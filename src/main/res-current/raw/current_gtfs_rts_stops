@@ -9,7 +9,7 @@
 178,'','Alsek Rd & Teslin Rd',60.7093116,-135.018964,0
 179,'','Alsek Rd',60.7071434,-135.0168974,0
 180,'','Alsek Rd & Peel Rd',60.7040853,-135.019903,0
-181,'','Lewes Blvd & Ketza Rd',60.7023965,-135.0225487,0
+181,'','Lewes Blvd & Ketza Rd',60.703464,-135.025896,0
 182,'','Lewes Blvd & Klondike Rd',60.7045927,-135.0293747,0
 183,'','Lewes Blvd & Teslin Rd',60.7057971,-135.0331168,0
 184,'','Lewes Blvd & MCSS',60.7101995,-135.037435,0
@@ -149,8 +149,6 @@
 322,'','Range Rd & Crow St',60.7537941,-135.0875757,0
 323,'','Range Rd & Mountainview Dr (NB)',60.7581696,-135.0904369,0
 324,'','Range Rd & River Rdg Ln',60.7559922,-135.0892388,0
-325,'','Mallard Way & Goldeneye St',60.7120762,-135.1110695,0
-326,'','Mallard Way & Goldeneye Pl',60.7097492,-135.1147952,0
 327,'','Casca Blvd & Aksala Dr',60.772527,-135.102918,0
 328,'','Casca Blvd & Skookum Dr',60.7764015,-135.0984361,0
 329,'','Casca Blvd & Sybil Cir',60.7822899,-135.1021074,0
@@ -185,3 +183,4 @@
 375,'','Range Rd & Rhine Way (SB)',60.74119535,-135.0911161,0
 378,'','Hamilton Blvd South Access & Alaska Hwy',60.6848245,-135.0608363,0
 379,'','Hamilton Blvd South Access & Alaska Hwy',60.6844469,-135.0612266,0
+380,'','Heron Dr & Ptarmigan Pl',60.7108122,-135.1075834,0
