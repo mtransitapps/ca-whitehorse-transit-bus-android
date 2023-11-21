@@ -1,13 +1,8 @@
-209,0,'Yukon Visitor Information Ctr',2
-309,0,'2nd Ave & Ogilvie St',3
-409,0,'2nd Ave & Lambert St',4
-509,0,'Yukon Visitor Information Ctr',5
-709,0,'2nd Ave & Ogilvie St',7
-20109,0,'Yukon Visitor Information Ctr',201
-20209,0,'Chilkoot Way (W)',202
-40109,0,'Yukon Visitor Information Ctr',401
-40209,0,'Range Rd & Normandy Rd (S)',402
-300509,0,'2nd Ave & Steele St',3005
-2230709,0,'2nd Ave & Ogilvie St',22307
-10100009,0,'Riverdale Loop',101000
-401230709,0,'Yukon Visitor Information Ctr',4012307
+200,0,'Yukon Visitor Information Ctr',2
+300,0,'2nd Ave & Ogilvie St',3
+500,0,'Yukon Visitor Information Ctr',5
+20100,0,'Yukon Visitor Information Ctr',201
+20200,0,'Chilkoot Way (W)',202
+40100,0,'Yukon Visitor Information Ctr',401
+40200,0,'Range Rd & Normandy Rd',402
+10100000,0,'Riverdale Loop',101000
