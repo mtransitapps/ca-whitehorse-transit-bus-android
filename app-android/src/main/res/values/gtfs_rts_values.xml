@@ -3,4 +3,5 @@
     <integer name="gtfs_rts_db_version">20240827</integer>
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="gtfs_rts_contact_us">https://www.whitehorse.ca/contact-us/</string>
+    <string name="gtfs_rts_fares">https://www.whitehorse.ca/living-in-whitehorse/transit/fares/</string>
 </resources>
