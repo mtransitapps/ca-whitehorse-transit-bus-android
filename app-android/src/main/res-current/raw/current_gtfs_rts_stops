@@ -1,168 +1,162 @@
-50,'','Porter Crk S',60.77000,-135.11888,0,1691
-89,'','Hamilton Blvd & Thompson Rd',60.70239,-135.10273,0,1793
-173,'','2nd Ave & Hanson St',60.71753,-135.05080,0,48845
-174,'','2nd Ave & Rogers St',60.71621,-135.04978,0,48846
-175,'','Lewes Blvd & FH Collins SS (SB)',60.71252,-135.04071,0,48847
-176,'','Alsek Rd & Donjek Rd',60.71004,-135.03091,0,48848
-177,'','Alsek Rd & Aishihik Rd',60.71071,-135.02592,0,48849
-179,'','Alsek Rd',60.70714,-135.01690,0,48851
-180,'','Alsek Rd & Peel Rd',60.70409,-135.01990,0,48873
-181,'','Lewes Blvd & Ketza Rd',60.70346,-135.02590,0,48874
-182,'','Lewes Blvd & Klondike Rd',60.70459,-135.02937,0,48875
-183,'','Lewes Blvd & Teslin Rd',60.70580,-135.03312,0,48876
-184,'','Lewes Blvd & MCSS',60.71020,-135.03744,0,48877
-185,'','Whitehorse General Hosp',60.71868,-135.04404,0,48878
-186,'','Hosp Rd & Wickstrom Rd',60.71517,-135.04111,0,48879
-188,'','Yukon Legislative Bldg',60.71658,-135.04963,0,48881
-190,'','2nd Ave & Steele St',60.72079,-135.05300,0,48904
-191,'','2nd Ave & Front St',60.72374,-135.05519,0,48905
-192,'','2nd Ave & Keish St',60.72578,-135.05679,0,48906
-193,'','2nd Ave & Shipyards Pk (NB)',60.72830,-135.05872,0,48907
-194,'','Quartz Rd & Chilkoot Way (NB)',60.73227,-135.06705,0,48908
-195,'','Quartz Rd & Chilkoot Ctr (NB)',60.73423,-135.06855,0,48909
-196,'','Quartz Rd & Ind Rd (NB)',60.73717,-135.07640,0,48910
-197,'','Copper Rd (NB)',60.73877,-135.08022,0,48911
-198,'','Copper Rd & Tlingit St (NB)',60.74130,-135.08219,0,48912
+50,'','Porter Creek School',60.76959,-135.11906,0,1691
+173,'13','2nd Avenue & Hanson Street',60.71753,-135.05080,0,48845
+174,'136','2nd Avenue & Rogers Street',60.71621,-135.04978,0,48846
+175,'2','Lewes Blvd & FH Collins SS (SB)',60.71252,-135.04071,0,48847
+176,'4','Alsek Road & Donjek Road',60.71004,-135.03091,0,48848
+177,'14','Alsek Road & Aishihik Road',60.71071,-135.02592,0,48849
+179,'83','Alsek Road',60.70714,-135.01690,0,48851
+180,'6','Alsek Road & Peel Road',60.70409,-135.01990,0,48873
+181,'1','Lewes Blvd & Ketza Rd',60.70346,-135.02590,0,48874
+185,'19','Whitehorse General Hospital',60.71868,-135.04404,0,48878
+186,'173','Hosp Rd & Wickstrom Rd',60.71517,-135.04111,0,48879
+188,'12','Yukon Legislative Building',60.71658,-135.04963,0,48881
+191,'15','2nd Avenue & Front Street',60.72374,-135.05519,0,48905
+192,'20','2nd Avenue & Keish Street',60.72578,-135.05679,0,48906
+193,'22','2nd Ave & Shipyards Pk (NB)',60.72830,-135.05872,0,48907
+194,'24','Quartz Rd & Chilkoot Way (NB)',60.73227,-135.06705,0,48908
+195,'81','Quartz Rd & Chilkoot Ctr (NB)',60.73423,-135.06855,0,48909
+196,'26','Quartz Rd & Ind Rd (NB)',60.73717,-135.07640,0,48910
+197,'28','Copper Road',60.73877,-135.08022,0,48911
+198,'30','Copper Rd & Tlingit St (NB)',60.74130,-135.08219,0,48912
 199,'','Mtn Vw Dr & Range Rd (NB)',60.75086,-135.09061,0,48913
 200,'','12th Ave & Hemlock St',60.76702,-135.11986,0,49586
-201,'','12th Ave & Spruce St',60.76611,-135.12346,0,49587
-202,'','12th Ave & Elm St',60.76293,-135.13629,0,49588
+201,'','12th Avenue & Spruce Street',60.76611,-135.12346,0,49587
+202,'','12th Avenue & Elm Street',60.76293,-135.13629,0,49588
 203,'','Centennial St & 12th Ave',60.76356,-135.13973,0,49589
 204,'','Centennial St & 15th Ave',60.76554,-135.14287,0,49590
 205,'','Centennial St & Wann Rd',60.77163,-135.14832,0,49591
-206,'','Centennial St',60.77437,-135.14898,0,49592
+206,'','Centennial Street',60.77437,-135.14898,0,49592
 207,'','Centennial St & MacDonald Rd',60.77630,-135.15235,0,49593
 208,'','Squanga Ave & Dezadeash Rd',60.78762,-135.16844,0,49594
 209,'','Squanga Ave & Kusawa Rd',60.78555,-135.16753,0,49595
 210,'','Squanga Ave & Rainbow Rd',60.78410,-135.16671,0,49617
 211,'','Klukshu Ave & Rainbow Rd',60.78299,-135.16885,0,49618
-212,'','Klukshu Ave & Azure Rd',60.78100,-135.16856,0,49619
+212,'','Klukshu Avenue & Azure Road',60.78100,-135.16856,0,49619
 213,'','Azure Rd & Prospector Pl',60.77925,-135.16304,0,49620
 215,'','Wann Rd & Boxwood Cr',60.77571,-135.13172,0,49622
-216,'','Wann Rd & Hickory St',60.77596,-135.12699,0,49623
+216,'','Wann Road & Hickory Street',60.77596,-135.12699,0,49623
 217,'','Hickory St & Evergreen Cr',60.77430,-135.12436,0,49624
 218,'','Hickory St & Chestnut Pl',60.77245,-135.12015,0,49625
-219,'','Porter Crk S',60.76885,-135.11943,0,49626
+219,'','Porter Creek School',60.76897,-135.11949,0,49626
 220,'','Mtn Vw Dr & Range Rd (SB)',60.74912,-135.09110,0,49648
 221,'','Copper Rd & Tlingit St (SB)',60.74099,-135.08231,0,49649
-222,'','Copper Rd & Quartz Rd',60.73761,-135.07924,0,49650
+222,'','Copper Road & Quartz Road',60.73761,-135.07924,0,49650
 223,'','Quartz Rd & Ind Rd (SB)',60.73634,-135.07324,0,49651
 224,'','Quartz Rd & Chilkoot Ctr (SB)',60.73356,-135.06846,0,49652
 225,'','Quartz Rd & Chilkoot Way (SB)',60.73174,-135.06704,0,49653
-226,'','Quartz Rd & 2nd Ave',60.72995,-135.06565,0,49654
-227,'','2nd Ave & Shipyards Pk (SB)',60.72794,-135.05884,0,49655
-228,'','2nd Ave & Ogilvie St',60.72555,-135.05700,0,49656
-232,'','Duke Rd & Grn Cr',60.70116,-135.02845,0,49681
-233,'','Alsek Rd & Blanchard Rd',60.70062,-135.03358,0,49682
-234,'','Alsek Rd & Bell Cresent',60.70043,-135.03888,0,49683
-235,'','Nisutlin Dr & Blanchard Rd',60.70263,-135.03919,0,49684
-236,'','Nisutlin Dr & Christ The King S',60.70570,-135.03489,0,49685
+226,'','Quartz Road & 2nd Avenue',60.72995,-135.06565,0,49654
+227,'','2nd Ave & Shipyards Pk (SB)',60.72801,-135.05892,0,49655
+228,'','2nd Avenue & Ogilvie Street',60.72560,-135.05705,0,49656
+232,'63','Duke Road & Green Crescent',60.70116,-135.02845,0,49681
+233,'60','Alsek Road & Blanchard Road',60.70062,-135.03358,0,49682
+234,'61','Alsek Road & Bell Cresent',60.70043,-135.03888,0,49683
+235,'62','Nisutlin Dr & Blanchard Rd',60.70263,-135.03919,0,49684
+236,'69','Nisutlin Dr & Christ The King S',60.70550,-135.03539,0,49685
 237,'','Ind Rd & Jasper Rd (SB)',60.73512,-135.07715,0,49686
-238,'','Canada Games Ctr',60.73002,-135.09856,0,49687
+239,'91','Hamilton Blvd & Canada Games Ctr',60.72902,-135.09845,0,49688
 240,'','Hamilton Blvd & McIntyre Dr (SB)',60.71313,-135.10427,0,49710
+241,'','Hamilton Blvd & McIntyre N',60.72110,-135.09781,0,49711
 242,'','Heron Dr & Ptarmigan Pl',60.71081,-135.10758,0,49712
 243,'','Heron Dr & Sandpiper Dr',60.70855,-135.11203,0,49713
-244,'','Falcon Dr & Heron Dr',60.70753,-135.11196,0,49714
+244,'','Falcon Drive & Heron Drive',60.70753,-135.11196,0,49714
 245,'','Falcon Dr & Finch Cr',60.70551,-135.11613,0,49715
 246,'','Emerald Trl & Moonstone Ln',60.70327,-135.11312,0,49716
-247,'','Emerald Trl & Zircon Ln',60.70282,-135.10875,0,49717
-248,'','Copper Rdg Pl',60.69986,-135.11104,0,49718
+247,'','Emerald Trail & Zircon Lane',60.70282,-135.10875,0,49717
+248,'','Copper Ridge Place',60.69986,-135.11104,0,49718
 249,'','Falcon Dr & Aquamarine Pl',60.69948,-135.11617,0,49719
-250,'','Falcon Dr & Ruby Ln',60.69746,-135.11549,0,49741
+250,'','Falcon Drive & Ruby Lane',60.69746,-135.11549,0,49741
 251,'','North Star Dr & Falcon Dr',60.69540,-135.11363,0,49742
-252,'','North Star Dr & Iron Horse Dr',60.69288,-135.11227,0,49743
+252,'','N Star Dr & Iron Horse Dr',60.69288,-135.11227,0,49743
 253,'','North Star Dr & Keewanaw Dr',60.69233,-135.10474,0,49744
 254,'','North Star Dr & Grafter Pl',60.69558,-135.10184,0,49745
 255,'','Falcon Dr & North Star Dr',60.69746,-135.10588,0,49746
-256,'','Falcon Dr & Diamond Way',60.69965,-135.10529,0,49747
+256,'','Falcon Drive & Diamond Way',60.69965,-135.10529,0,49747
 258,'','Thompson Rd & Wilson Dr',60.70390,-135.10244,0,49749
 259,'','Thompson Rd & Turner Cr',60.70818,-135.10119,0,49750
-260,'','Thompson Rd & Bowen Pl',60.71038,-135.10301,0,49772
-261,'','Hamilton Blvd & McIntyre Dr (NB)',60.71376,-135.10170,0,49773
-262,'','Hamilton Blvd & Vly Vw Walkway',60.72906,-135.09773,0,49774
+260,'','Thompson Road & Bowen Place',60.71038,-135.10301,0,49772
+261,'73','Hamilton Blvd & McIntyre Dr (NB)',60.71376,-135.10170,0,49773
+262,'79','Hamilton Blvd & Vly Vw Walkway',60.72906,-135.09773,0,49774
 264,'','Alaska Hwy & Two Mile Hl Rd',60.73656,-135.09813,0,49776
-265,'','Raven''s Rdg',60.74361,-135.13668,0,49777
 266,'','Alaska Hwy & Kopper King',60.74194,-135.11341,0,49778
-267,'','McIntyre Dr & Johnston Rd',60.72122,-135.09959,0,49779
-268,'','McIntyre Dr & McClimon Cr',60.71899,-135.10736,0,49780
-269,'','McIntyre Dr & McCrimmon Cr',60.71580,-135.10635,0,49781
-270,'','McIntyre Dr & McCandless Cr',60.71445,-135.10444,0,49803
-271,'','Burns Rd & Wasson Pl',60.71615,-135.08491,0,49804
-272,'','Burns Rd & Roundel Rd',60.71359,-135.08453,0,49805
-273,'','Sunset Dr North & Summit Rd',60.71348,-135.09049,0,49806
-274,'','Sunset Dr North',60.71215,-135.09491,0,49807
-275,'','Sunset Dr North & Pk Ln',60.71120,-135.09661,0,49808
-276,'','Pk Ln & Hillcrest Dr',60.70954,-135.09407,0,49809
-277,'','Hillcrest Dr & Dalton Trl',60.71074,-135.08957,0,49810
-278,'','Hillcrest Dr & Burns Rd',60.71213,-135.08459,0,49811
-279,'','Whitehorse International Airport',60.71433,-135.07724,0,49812
-280,'','Whitehorse Op Bldg',60.72923,-135.08745,0,49834
-281,'','Whitehorse Public Safety Bldg',60.73294,-135.08988,0,49835
+267,'155','McIntyre Dr & Johnston Rd',60.72122,-135.09959,0,49779
+268,'150','McIntyre Dr & McClimon Cr',60.71899,-135.10736,0,49780
+269,'84','McIntyre Dr & McCrimmon Cr',60.71580,-135.10635,0,49781
+270,'86','McIntyre Dr & McCandless Cr',60.71445,-135.10444,0,49803
+271,'87','Burns Road & Wasson Place',60.71615,-135.08491,0,49804
+272,'88','Burns Road & Roundel Road',60.71359,-135.08453,0,49805
+273,'152','Sunset Dr North & Summit Rd',60.71348,-135.09049,0,49806
+274,'153','Sunset Drive North',60.71215,-135.09491,0,49807
+275,'154','Sunset Dr North & Pk Ln',60.71120,-135.09661,0,49808
+276,'82','Park Lane & Hillcrest Drive',60.70954,-135.09407,0,49809
+277,'85','Hillcrest Dr & Dalton Trl',60.71074,-135.08957,0,49810
+278,'89','Hillcrest Dr & Burns Rd',60.71213,-135.08459,0,49811
+279,'90','Whitehorse International Airport',60.71433,-135.07724,0,49812
 282,'','Pine St & Walnut Cr',60.76214,-135.12256,0,49836
-283,'','Ponderosa Dr (North End)',60.75979,-135.11881,0,49837
+283,'','Ponderosa Drive (North End)',60.75979,-135.11881,0,49837
 284,'','Ponderosa Dr & Locust Pl',60.75746,-135.11850,0,49838
-285,'','Grv St (NB)',60.75819,-135.12414,0,49839
-286,'','Grv St & 9th Ave',60.76119,-135.12578,0,49840
-287,'','11th Ave & Grv St',60.76327,-135.12867,0,49841
-288,'','Fir St & 11th Ave',60.76309,-135.13207,0,49842
+285,'','Grove Street (NB)',60.75819,-135.12414,0,49839
+286,'','Grove Street & 9th Avenue',60.76119,-135.12578,0,49840
+287,'','11th Avenue & Grove Street',60.76327,-135.12867,0,49841
+288,'','Fir Street & 11th Avenue',60.76309,-135.13207,0,49842
 291,'','Sycamore St & Aspen Pl',60.77618,-135.14158,0,49866
 292,'','Sycamore St & Maple St',60.77800,-135.14306,0,49867
-293,'','Beech St',60.78000,-135.14208,0,49868
-294,'','Larch Rd',60.78080,-135.13772,0,49869
-295,'','Redwood St',60.77812,-135.13756,0,49870
-296,'','Redwood St & Wann Rd',60.77632,-135.13788,0,49871
-297,'','Yukon Inn Plz',60.72725,-135.06543,0,49872
-298,'','4th Ave & Cook St',60.72461,-135.06174,0,49873
-299,'','4th Ave & Strickland St',60.72172,-135.05854,0,49874
-300,'','RCMP Headquarters',60.71831,-135.05594,0,50547
-301,'','4th Ave & Hanson St',60.71625,-135.05437,0,50548
-302,'','4th Ave & Lowe St',60.71389,-135.05256,0,50549
-303,'','SS Klondike National Historic Site',60.71329,-135.04967,0,50550
-304,'','Robert Service Way & 4th Ave (NB)',60.71338,-135.05002,0,50551
+293,'','Beech Street',60.78000,-135.14208,0,49868
+294,'','Larch Road',60.78080,-135.13772,0,49869
+295,'','Redwood Street',60.77812,-135.13756,0,49870
+296,'','Redwood Street & Wann Road',60.77632,-135.13788,0,49871
+297,'106','Yukon Inn Plaza',60.72725,-135.06543,0,49872
+298,'105','4th Avenue & Cook Street',60.72461,-135.06174,0,49873
+299,'104','4th Ave & Strickland St',60.72172,-135.05854,0,49874
+300,'103','RCMP Headquarters',60.71831,-135.05594,0,50547
+301,'101','4th Avenue & Hanson Street',60.71625,-135.05437,0,50548
+302,'100','4th Avenue & Lowe Street',60.71389,-135.05256,0,50549
+303,'102','SS Klondike National Historic Site',60.71329,-135.04967,0,50550
 305,'','Robert Service Ballpark',60.70071,-135.04763,0,50552
 306,'','Robert Service Way & Miles Canyon Rd (SB)',60.69458,-135.04722,0,50553
 308,'','Lobird Roundabout',60.68400,-135.07281,0,50555
-309,'','Falcon Dr & Moonstone Ln',60.70267,-135.11426,0,50556
-310,'','Falcon Dr & Iron Horse Dr',60.69580,-135.11022,0,50578
-311,'','Lobird Ests',60.68394,-135.07816,0,50579
+311,'','Lobird Estates',60.68394,-135.07816,0,50579
 313,'','Robert Service Way & Miles Canyon Rd (NB)',60.69502,-135.04702,0,50581
 314,'','Robert Service Campground',60.70114,-135.04745,0,50582
-315,'','Range Rd & Normandy Rd',60.73527,-135.09009,0,50583
-316,'','Range Rd & Rhine Way',60.73777,-135.09038,0,50584
+315,'','Range Road & Normandy Road',60.73547,-135.09016,0,50583
+316,'','Range Road & Rhine Way',60.73777,-135.09038,0,50584
 317,'','Range Rd & Vimy Pl (NB)',60.74160,-135.09085,0,50585
-318,'','University Dr & Range Rd',60.74428,-135.09204,0,50586
-319,'','Yukon U',60.75004,-135.09718,0,50587
+318,'143','University Dr & Range Rd',60.74428,-135.09204,0,50586
+319,'144','Yukon University',60.75004,-135.09718,0,50587
 320,'','Range Rd & Mountainview Dr',60.74881,-135.09169,0,50609
 321,'','Range Rd & Takhini Trailer Court',60.75132,-135.08867,0,50610
-322,'','Range Rd & Crow St',60.75379,-135.08758,0,50611
+322,'','Range Road & Crow Street',60.75379,-135.08758,0,50611
 323,'','Range Rd & Mountainview Dr (NB)',60.75817,-135.09044,0,50612
 324,'','Range Rd & River Rdg Ln',60.75599,-135.08924,0,50613
-327,'','Casca Blvd & Aksala Dr',60.77253,-135.10292,0,50616
-328,'','Casca Blvd & Skookum Dr',60.77640,-135.09844,0,50617
-329,'','Casca Blvd & Sybil Cir',60.78229,-135.10211,0,50618
-330,'','Casca Blvd & Leota St',60.78123,-135.11024,0,50640
+327,'','Casca Blvd & Aksala Drive',60.77253,-135.10292,0,50616
+328,'','Casca Blvd & Skookum Drive',60.77640,-135.09844,0,50617
+329,'','Casca Blvd & Sybil Circle',60.78229,-135.10211,0,50618
+330,'','Casca Blvd & Leota Street',60.78123,-135.11024,0,50640
 331,'','Keno Way & Casca Blvd',60.77731,-135.10984,0,50641
 332,'','Whistle Bend Care Facility',60.77540,-135.10324,0,50642
-333,'','Casca Blvd & Tarahne Way',60.77177,-135.10563,0,50643
-334,'','12th Ave & Grv St',60.76430,-135.13068,0,50644
-337,'','Range Rd & Normandy Rd (S)',60.74120,-135.09106,0,50647
-339,'','Chilkoot Way (E)',60.73166,-135.06865,0,50649
-346,'','Chilkoot Way (W)',60.73160,-135.06963,0,50677
+333,'','Casca Blvd & Tarahne Way',60.76842,-135.10769,0,50643
+334,'','12th Avenue & Grove Street',60.76430,-135.13068,0,50644
+337,'192','Range Rd & Normandy Rd (S)',60.74120,-135.09106,0,50647
+339,'','Chilkoot Way (EB)',60.73166,-135.06865,0,50649
+351,'194','Whitehorse Public Safety Bldg (S)',60.73309,-135.09012,0,50703
 355,'','Range Rd & Crow St (S)',60.75239,-135.08825,0,50707
-356,'','City Hall',60.72079,-135.05300,0,50708
-357,'','Quartz Rd & Ind Rd',60.73641,-135.07250,0,50709
-358,'','Yukon Courts Bldg',60.72137,-135.05377,0,50710
+356,'16','City Hall',60.72079,-135.05300,0,50708
+357,'25','Quartz Rd & Ind Rd',60.73641,-135.07250,0,50709
+358,'17','Yukon Courts Building',60.72137,-135.05377,0,50710
 359,'','Lewes Blvd & Dept Of Education',60.71338,-135.04226,0,50711
-360,'','Yukon Visitor Information Ctr',60.71783,-135.05064,0,50733
-362,'','Wann Rd & Holly St',60.77473,-135.13833,0,50735
+360,'18','Yukon Visitor Information Ctr',60.71783,-135.05064,0,50733
+362,'','Wann Road & Holly Street',60.77473,-135.13833,0,50735
 364,'','Range Rd & River Rdg Ln (NB)',60.75570,-135.08880,0,50737
-365,'','Range Rd & Mtn Vw Pl North (NB)',60.75784,-135.08995,0,50738
+365,'','Range Rd & Mtn Vw Pl N (NB)',60.75784,-135.08995,0,50738
 366,'','Hickory St & Chestnut Pl (NB)',60.77297,-135.12115,0,50739
 367,'','Hickory St & Evergreen Cr (NB)',60.77501,-135.12468,0,50740
-370,'','Alsek Rd & Klondike Rd',60.70931,-135.01896,0,50764
-372,'','Whitehorse Public Safety Bldg (SB)',60.73259,-135.09006,0,50766
-373,'','Whitehorse Op Bldg (SB)',60.72926,-135.08770,0,50767
-374,'','Range Rd & Mtn Vw Dr (SB)',60.74845,-135.09196,0,50768
-378,'','Hamilton Blvd South Access & Alaska Hwy',60.68482,-135.06084,0,50772
-379,'','Hamilton Blvd South Access & Alaska Hwy',60.68445,-135.06123,0,50773
-381,'','Range Rd & Rhine Way (SB)',60.73708,-135.09064,0,50796
+370,'3','Alsek Road & Klondike Road',60.70931,-135.01896,0,50764
+373,'195','Whitehorse Op Bldg (SB)',60.72926,-135.08770,0,50767
+374,'191','Range Rd & Mtn Vw Dr (SB)',60.74845,-135.09196,0,50768
+378,'','Hamilton Blvd S Access & Alaska Hwy',60.68482,-135.06084,0,50772
+379,'','Hamilton Blvd S Access & Alaska Hwy',60.68445,-135.06123,0,50773
+380,'','Heron Dr & Ptarmigan Pl',60.71081,-135.10758,0,50795
+381,'193','Range Road & Rhine Way (SB)',60.73708,-135.09064,0,50796
+383,'8','Lewes Blvd & FH Collins S NB',60.71020,-135.03744,0,50798
+384,'11','Department Of Education',60.71338,-135.04226,0,50799
+385,'','Sumanik Dr & Valleyview Dr',60.72758,-135.09276,0,50800
+408,'','Hamilton Blvd & Canada Games Ctr',60.72902,-135.09845,0,51516
