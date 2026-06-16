@@ -1,0 +1,48 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "route_id_cleanup_regex": "^TL-",
+    "use_route_long_name_for_missing_route_short_name": true,
+    "route_short_name_cleaners": [
+        {
+            "regex": "(^r )",
+            "ignore_case": true
+        },
+        {
+            "regex": "^route\\s+",
+            "ignore_case": true
+        }
+    ],
+    "default_route_long_name_enabled": true,
+    "direction_finder_enabled": true,
+    "direction_splitter_enabled": true,
+    "direction_headsign_cleaners": [
+        {
+            "regex": "(^route\\s+\\d+)$",
+            "ignore_case": true
+        }
+    ],
+    "trip_id_cleanup_regex": "^TL-",
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "CopperRidge",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "Copper Ridge"
+        },
+        {
+            "regex": " - ",
+            "replacement": "<>"
+        }
+    ],
+    "stop_id_cleanup_regex": "^TL-",
+    "stop_name_cleaners": [
+        {
+            "regex": "CopperRidge",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "Copper Ridge"
+        }
+    ]
+}
