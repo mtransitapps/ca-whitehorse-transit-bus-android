@@ -78,10 +78,9 @@
 262,'79','Hamilton Blvd & Vly Vw Walkway',60.72906,-135.09773,0,49774
 264,'','Alaska Hwy & Two Mile Hl Rd',60.73656,-135.09813,0,49776
 266,'','Alaska Hwy & Kopper King',60.74194,-135.11341,0,49778
-267,'155','McIntyre Dr & Johnston Rd',60.72122,-135.09959,0,49779
+267,'155','McIntyre Dr & MacAulay Rd',60.72033,-135.10327,0,49779
 268,'150','McIntyre Dr & McClimon Cr',60.71899,-135.10736,0,49780
-269,'84','McIntyre Dr & McCrimmon Cr',60.71580,-135.10635,0,49781
-270,'86','McIntyre Dr & McCandless Cr',60.71445,-135.10444,0,49803
+269,'84','McIntyre Dr & McClennan Rd',60.71527,-135.10555,0,49781
 271,'87','Burns Road & Wasson Place',60.71615,-135.08491,0,49804
 272,'88','Burns Road & Roundel Road',60.71359,-135.08453,0,49805
 273,'152','Sunset Dr North & Summit Rd',60.71348,-135.09049,0,49806
@@ -116,7 +115,7 @@
 308,'','Lobird Roundabout',60.68400,-135.07281,0,50555
 311,'','Lobird Estates',60.68394,-135.07816,0,50579
 313,'','Robert Service Way & Miles Canyon Rd (NB)',60.69502,-135.04702,0,50581
-314,'','Robert Service Campground',60.70114,-135.04745,0,50582
+314,'','Robert Service Campground',60.70194,-135.04850,0,50582
 315,'','Range Road & Normandy Road',60.73547,-135.09016,0,50583
 316,'','Range Road & Rhine Way',60.73777,-135.09038,0,50584
 317,'','Range Rd & Vimy Pl (NB)',60.74160,-135.09085,0,50585
