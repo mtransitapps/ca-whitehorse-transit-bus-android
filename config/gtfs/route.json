@@ -13,6 +13,24 @@
             "ignore_case": true
         }
     ],
+    "route_short_name_to_route_id_configs": [
+        {
+            "route_short_name": "West",
+            "route_id": 23000
+        },
+        {
+            "route_short_name": "East",
+            "route_id": 5000
+        },
+        {
+            "route_short_name": "North",
+            "route_id": 14000
+        },
+        {
+            "route_short_name": "South",
+            "route_id": 19000
+        }
+    ],
     "default_route_long_name_enabled": true,
     "direction_finder_enabled": true,
     "direction_splitter_enabled": true,

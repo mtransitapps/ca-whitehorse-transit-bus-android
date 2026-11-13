@@ -1,4 +1,9 @@
+23,'','2nd Ave & Shipyards Pk (NB)',60.72833,-135.05860,0,1601
+25,'','Quartz Rd & Chilkoot Ctr (NB)',60.73404,-135.06832,0,1603
 50,'','Porter Creek School',60.76959,-135.11906,0,1691
+71,'','Hamilton Blvd By The Canada Games Ctr',60.72909,-135.09867,0,1754
+118,'','Grove Street',60.75815,-135.12402,0,48664
+128,'','Redwood Street',60.77821,-135.13751,0,48695
 173,'13','2nd Avenue & Hanson Street',60.71753,-135.05080,0,48845
 174,'136','2nd Avenue & Rogers Street',60.71621,-135.04978,0,48846
 175,'2','Lewes Blvd & FH Collins SS (SB)',60.71252,-135.04071,0,48847
@@ -33,6 +38,7 @@
 211,'','Klukshu Ave & Rainbow Rd',60.78299,-135.16885,0,49618
 212,'','Klukshu Avenue & Azure Road',60.78100,-135.16856,0,49619
 213,'','Azure Rd & Prospector Pl',60.77925,-135.16304,0,49620
+214,'','Wann Road & Holly Street',60.77473,-135.13833,0,49621
 215,'','Wann Rd & Boxwood Cr',60.77571,-135.13172,0,49622
 216,'','Wann Road & Hickory Street',60.77596,-135.12699,0,49623
 217,'','Hickory St & Evergreen Cr',60.77430,-135.12436,0,49624
@@ -81,6 +87,7 @@
 267,'155','McIntyre Dr & MacAulay Rd',60.72033,-135.10327,0,49779
 268,'150','McIntyre Dr & McClimon Cr',60.71899,-135.10736,0,49780
 269,'84','McIntyre Dr & McClennan Rd',60.71527,-135.10555,0,49781
+270,'','McIntyre Dr & McCandless Cr',60.71445,-135.10444,0,49803
 271,'87','Burns Road & Wasson Place',60.71615,-135.08491,0,49804
 272,'88','Burns Road & Roundel Road',60.71359,-135.08453,0,49805
 273,'152','Sunset Dr North & Summit Rd',60.71348,-135.09049,0,49806
@@ -112,8 +119,10 @@
 303,'102','SS Klondike National Historic Site',60.71329,-135.04967,0,50550
 305,'','Robert Service Ballpark',60.70071,-135.04763,0,50552
 306,'','Robert Service Way & Miles Canyon Rd (SB)',60.69458,-135.04722,0,50553
+307,'','Hamilton Blvd S Access & Alaska Hwy (W)',60.68482,-135.06084,0,50554
 308,'','Lobird Roundabout',60.68400,-135.07281,0,50555
 311,'','Lobird Estates',60.68394,-135.07816,0,50579
+312,'','Hamilton Blvd S Access & Alaska Hwy (E)',60.68445,-135.06123,0,50580
 313,'','Robert Service Way & Miles Canyon Rd (NB)',60.69502,-135.04702,0,50581
 314,'','Robert Service Campground',60.70194,-135.04850,0,50582
 315,'','Range Road & Normandy Road',60.73547,-135.09016,0,50583
@@ -158,4 +167,29 @@
 383,'8','Lewes Blvd & FH Collins S NB',60.71020,-135.03744,0,50798
 384,'11','Department Of Education',60.71338,-135.04226,0,50799
 385,'','Sumanik Dr & Valleyview Dr',60.72758,-135.09276,0,50800
+386,'','Quartz Rd & Chilkoot Ctr (NB)',60.73423,-135.06855,0,50801
+387,'','Robert Service Way & Miles Canyon Rd (SB)',60.69458,-135.04720,0,50802
+388,'','Centennial St & 15th Ave',60.76554,-135.14287,0,50803
+389,'','Copper Road',60.73877,-135.08022,0,50804
+390,'','Hickory St & Evergreen Cr',60.77501,-135.12468,0,50826
+391,'','Ind Rd & Jasper Rd (SB)',60.73512,-135.07715,0,50827
+392,'','Larch Road & Maple Street',60.78080,-135.13772,0,50828
+393,'','Porter Creek School (SB)',60.76897,-135.11949,0,50829
+394,'','Quartz Rd & Chilkoot Ctr (SB)',60.73356,-135.06846,0,50830
+395,'','Range Rd & Crow St (NB)',60.75379,-135.08758,0,50831
+396,'','Range Rd & Crow St (SB)',60.75239,-135.08825,0,50832
+397,'','Range Rd & Mtn Vw Dr (NB)',60.74881,-135.09169,0,50833
+398,'','Range Rd & Mtn Vw Dr (SB)',60.74845,-135.09196,0,50834
+399,'','Range Rd & Mtn Vw Pl N (SB)',60.75817,-135.09044,0,50835
+400,'','Range Rd & Normandy Rd (NB)',60.73547,-135.09016,0,51508
+401,'','Range Rd & Normandy Rd (SB)',60.74120,-135.09106,0,51509
+402,'','Range Road & Rhine Way (NB)',60.73777,-135.09038,0,51510
+403,'','Range Rd & River Rdg Ln (SB)',60.75599,-135.08924,0,51511
+404,'','Range Road & Vimy Place',60.74160,-135.09085,0,51512
+405,'','University Dr & Range Rd',60.74428,-135.09204,0,51513
+406,'','Lewes Blvd & FH Collins S SB',60.71252,-135.04071,0,51514
+407,'','Yukon Legislative Building',60.71658,-135.04963,0,51515
 408,'','Hamilton Blvd & Canada Games Ctr',60.72902,-135.09845,0,51516
+409,'','Hamilton Blvd & Canada Games Ctr (NB)',60.72906,-135.09773,0,51517
+412,'','Porter Creek School (NB)',60.77000,-135.11888,0,51541
+414,'','Range Rd & River Rdg Ln (SB)',60.75599,-135.08924,0,51543
